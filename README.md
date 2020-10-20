@@ -20,5 +20,5 @@ Funny/interesting/etc quotes from Nim communities (chats, forum)
 > Disruptek: so there's no rush.  
 
 - https://irclogs.nim-lang.org/25-08-2020.html#10:23:51
-> Clyybber: you ask disruptek how to echo a variable and you get back a reflection on the nature of the universe, data and mutations
+> Clyybber: you ask disruptek how to echo a variable and you get back a reflection on the nature of the universe, data and mutations  
 > Clyybber: what more is disruptek than an abstract entity thinking about abstract entities with throbbing balls?
