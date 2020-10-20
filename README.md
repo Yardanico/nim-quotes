@@ -23,6 +23,6 @@ Funny/interesting/etc quotes from Nim communities (chats, forum)
 > Clyybber: you ask disruptek how to echo a variable and you get back a reflection on the nature of the universe, data and mutations  
 > Clyybber: what more is disruptek than an abstract entity thinking about abstract entities with throbbing balls?
 
-![image](https://user-images.githubusercontent.com/34076219/96627841-595f8e00-1309-11eb-9ac1-b47955103606.png)
-> disruptek: OH SHIT
-> yardanico: AMAZING
+- https://irclogs.nim-lang.org/14-10-2020.html#17:04:47
+> Disruptek: OH SHIT
+> Yardanico: AMAZING
