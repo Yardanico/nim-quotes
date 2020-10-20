@@ -1,11 +1,20 @@
-# disruptek-quotes
-Quotes of Disruptek
+# Great Nim quotes (not really)
 
+Funny/interesting/etc quotes from Nim communities (chats, forum)
 
 - https://irclogs.nim-lang.org/20-10-2020.html#01:44:38
-> sometimes the end isn't the beginning of the end, or the end of the beginning.
-> 
-> it's just the fucking end.
+
+> Disruptek: sometimes the end isn't the beginning of the end, or the end of the beginning.  
+> Disruptek: it's just the fucking end.
 
 - https://irclogs.nim-lang.org/18-10-2020.html#02:35:55
-> i kinda wanna hump his leg and then lick my balls.
+> Disruptek: i kinda wanna hump his leg and then lick my balls.
+
+- https://irclogs.nim-lang.org/03-09-2020.html#05:18:17
+> Disruptek: ah fuck  
+> Disruptek: the balls, the balls they are a'throbbin'  
+> Disruptek: damnit clyybber.  
+
+- https://irclogs.nim-lang.org/03-09-2020.html#05:35:23
+> Disruptek: even if resym worked the compiler will choke on it like an underage hooker.  
+> Disruptek: so there's no rush.  
