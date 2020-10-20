@@ -24,5 +24,5 @@ Funny/interesting/etc quotes from Nim communities (chats, forum)
 > Clyybber: what more is disruptek than an abstract entity thinking about abstract entities with throbbing balls?
 
 - https://irclogs.nim-lang.org/14-10-2020.html#17:04:47
-> Disruptek: OH SHIT
-> Yardanico: AMAZING
+> Disruptek: OH SHIT  
+> Yardanico: AMAZING  
